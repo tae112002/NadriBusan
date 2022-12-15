@@ -1,0 +1,20 @@
+.nav-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+.logo-title {
+  font-family: "NanumBrush";
+  font-size: 50px;
+  font-weight: bold;
+}
+.logo-img {
+  width: 50px;
+}
+.nav-menu ul {
+  display: flex;
+}
+
+@font-face {
+  font-family: "NanumBrush";
+  src: url("../../assets/font/NanumBrush.ttf");
+}
